@@ -9,6 +9,7 @@
 
 ---
 
+###👌 Minhas Skills
 
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,figma,cs,vscode,mysql,linkedin,discord,instagram&perline=50)
 
