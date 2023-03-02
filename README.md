@@ -4,7 +4,7 @@
 - 📝 Estudande de programação
 - 👀 Curioso por tecnologias 
 ---
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CesarFerre&theme=dark">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cesarferre&theme=dark">
 
 
 ---
